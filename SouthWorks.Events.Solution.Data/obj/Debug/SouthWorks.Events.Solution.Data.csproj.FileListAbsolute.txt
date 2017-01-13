@@ -1,0 +1,9 @@
+C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Solution.Data\bin\Debug\SouthWorks.Events.Solution.Data.dll
+C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Solution.Data\bin\Debug\SouthWorks.Events.Solution.Data.pdb
+C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Solution.Data\bin\Debug\Biseth.Net.Couch.dll
+C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Solution.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Solution.Data\bin\Debug\Biseth.Net.Couch.pdb
+C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Solution.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Solution.Data\obj\Debug\SouthWorks.Events.Solution.Data.csprojResolveAssemblyReference.cache
+C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Solution.Data\obj\Debug\SouthWorks.Events.Solution.Data.dll
+C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Solution.Data\obj\Debug\SouthWorks.Events.Solution.Data.pdb
