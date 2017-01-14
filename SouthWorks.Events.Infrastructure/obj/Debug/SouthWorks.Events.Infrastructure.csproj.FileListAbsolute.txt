@@ -2,9 +2,7 @@ C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solutio
 C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Infrastructure\bin\Debug\SouthWorks.Events.Infrastructure.dll
 C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Infrastructure\bin\Debug\SouthWorks.Events.Infrastructure.pdb
 C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Infrastructure\bin\Debug\Newtonsoft.Json.dll
-C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Infrastructure\bin\Debug\SouthWorks.Events.Domain.dll
 C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Infrastructure\bin\Debug\StackExchange.Redis.dll
-C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Infrastructure\bin\Debug\SouthWorks.Events.Domain.pdb
 C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Infrastructure\bin\Debug\Newtonsoft.Json.xml
 C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Infrastructure\bin\Debug\StackExchange.Redis.xml
 C:\Users\hdelnegro\Documents\Belatrix\Bristlecone\Code\SouthWorks.Events.Solution\SouthWorks.Events.Infrastructure\obj\Debug\SouthWorks.Events.Infrastructure.csprojResolveAssemblyReference.cache

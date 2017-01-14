@@ -60,7 +60,7 @@ namespace SouthWorks.Events.Solution.Providers
 
         public override void Set(string key, object entry, DateTime utcExpiry)
         {
-            _redisRepository.Add(key,
+            _redisRepository.Set(key,
                 new CacheItem()
                 {
                     Expiration = utcExpiry,

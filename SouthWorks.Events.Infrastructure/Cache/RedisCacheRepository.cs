@@ -1,5 +1,4 @@
 ﻿using Newtonsoft.Json;
-using SouthWorks.Events.Infrastructure.Serializer;
 using System;
 
 namespace SouthWorks.Events.Infrastructure.Cache
@@ -11,6 +10,13 @@ namespace SouthWorks.Events.Infrastructure.Cache
         public void Add(string key, object data)
         {
             var cache = RedisConnectorHelper.Connection.GetDatabase();
+            cache.StringSet(key, JsonConvert.SerializeObject(data));
+        }
+
+        public void Set(string key, object data)
+        {
+            var cache = RedisConnectorHelper.Connection.GetDatabase();
+
             cache.StringSet(key, JsonConvert.SerializeObject(data));
         }
 
