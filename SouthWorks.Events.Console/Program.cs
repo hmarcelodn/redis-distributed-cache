@@ -6,10 +6,11 @@ namespace SouthWorks.Events.Console
 {
     public class Program
     {
+        private const string BASE_URL = "http://localhost:88";
+        private const string RESOURCE_TEMPLATE = "/Events/GetEvents?iDisplayStart={0}&iDisplayLength={1}&sSearch={2}";
+
         public static void Main(string[] args)
         {
-            var httpRequestTemplate = "/Events/GetEvents?iDisplayStart={0}&iDisplayLength={1}&sSearch={2}";
-
             Parallel.For(0, 500, j =>
             {
                 for (int i = 0; i < 500; i++)
@@ -18,9 +19,9 @@ namespace SouthWorks.Events.Console
 
                     using (var httpClient = new HttpClient())
                     {
-                        httpClient.BaseAddress = new Uri("http://localhost:88");
+                        httpClient.BaseAddress = new Uri(BASE_URL);
                         var httpResponse = httpClient.GetAsync(
-                            string.Format(httpRequestTemplate, i, i, Guid.NewGuid().ToString())
+                            string.Format(RESOURCE_TEMPLATE, i, i, Guid.NewGuid().ToString())
                         ).Result;
 
                         httpResponse.EnsureSuccessStatusCode();
