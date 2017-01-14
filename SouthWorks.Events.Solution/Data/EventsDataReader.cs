@@ -9,7 +9,7 @@ namespace SouthWorks.Events.Solution.Data
 {
     public class EventsDataReader
     {
-        protected const int TOTAL_ROWS = 180;
+        protected const int TOTAL_ROWS = 1080;
 
         public static DataTableDataModel ReadEvents(int echo, int start, int length, string search)
         {
